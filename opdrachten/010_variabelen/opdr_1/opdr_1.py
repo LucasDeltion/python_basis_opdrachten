@@ -1,7 +1,11 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student: Lucas Scholten
+# Groep:ITX
 
 # Hier komt je code...
 
-my_list = ...hallo
+#ingevoerde values
+values = [13, "wat een weertje", 12.5, 8]
+
+#geprinte values
+print(values)
