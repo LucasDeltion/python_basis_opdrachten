@@ -5,7 +5,7 @@
 # Hier komt je code...
 
 #ingevoerde values
-values = [13, "wat een weertje", 12.5, 8]
+my_list = [13, "wat een weertje", 12.5, 8]
 
 #geprinte values
-print(values)
+print(my_list)
